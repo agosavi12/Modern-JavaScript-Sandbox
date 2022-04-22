@@ -1,11 +1,18 @@
-const email = 'amol@frontendhub.in'
+const email = 'Amol@frontendhub.in'
 
-//const result = email.lastIndexOf('n')
+let result
+//result = email.indexOf('f')
 
-// const result = email.slice(0, 4)
+//result = email.lastIndexOf('n')
 
-// const result = email.substr(0, 5)
+//  result = email.slice(0, 4)
 
-//const result = email.replace('a', 'j')
+//  result = email.substr(0, 5)
+
+//result = email.toUpperCase()
+
+//result = email.toLowerCase()
+
+//result = email.replace('a', 'j')
 
 console.log(result)
